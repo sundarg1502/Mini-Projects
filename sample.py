@@ -1,1 +1,1 @@
-print("Sample code for github")
+print("Sample code for GITHUB")
